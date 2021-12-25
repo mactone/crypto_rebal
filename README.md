@@ -15,6 +15,10 @@ Required packages:
 - dataframe-image
 - lxml
 
+# Todos
+[ ] add FTX client
+[ ] add new handler
+
 # Logs
 2021-11-23:
 - Spotted a bug that doesn't combine the assets in the flexible savings and spot wallet.
